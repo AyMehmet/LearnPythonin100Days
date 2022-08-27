@@ -1,0 +1,5 @@
+print("menu")
+price = input("select price")
+numbers = str(price)
+print (numbers[0]+"  number")
+#print(int(numbers[0])+int(numbers)[1]+int(numbers)[2])
